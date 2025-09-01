@@ -1,7 +1,7 @@
-# Hi, I'm Sanjay 👋
+# Hi, I'm Sanjay 👋  
 
-💡 Aspiring Data Analyst | Passionate about Data & Insights  
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sanjaynarra)
-
-📊 Skills: SQL | Excel | Power BI | Python (Pandas, NumPy, Matplotlib)
+🎓 B.Tech in Computer Science (2026) | Mallareddy College of Engineering  
+💡 Aspiring Data Analyst | Passionate about Data, SQL, Python & Problem Solving  
+📊 Interested in turning raw data into meaningful insights  
+🌱 Currently learning: SQL, Python, and Data Visualization  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sanjaynarra)
